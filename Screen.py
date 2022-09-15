@@ -8,5 +8,5 @@ while not finish:
         if event.type == pygame.QUIT:
             finish = True
 
-    screen.fill((255, 255, 255))
+    screen.fill((0, 128, 0))
     pygame.display.update()
